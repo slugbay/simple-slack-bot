@@ -1,0 +1,29 @@
+{
+    "name": "simple-slack-bot",
+    "version": "0.0.1",
+    "description": "Awesome Simple Node.js Slack Bot library",
+    "main": "index.js",
+    "author": {
+        "name": "SlugBay",
+        "email": "contact@slugbay.com",
+        "url": "https://www.slugbay.com"
+    },
+    "homepage": "https://github.com/slugbay/slack-bot",
+    "license": "MIT",
+    "keywords": [
+        "slack",
+        "bot",
+        "socket",
+        "websocket",
+        "slugbay",
+        "developer",
+        "sluggy",
+        "rtm"
+    ],
+    "dependencies": {
+        "request": "2.64.0",
+        "underscore": "1.8.3",
+        "ws": "1.0.1",
+        "async": "1.4.2"
+    }
+}
