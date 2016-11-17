@@ -1,6 +1,6 @@
 {
     "name": "simple-slack-bot",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Awesome Simple Node.js Slack Bot library",
     "main": "index.js",
     "author": {

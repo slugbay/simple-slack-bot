@@ -81,7 +81,7 @@ SlackBot.prototype._api = function ( methodName, params, callback ) {
         form: this._preprocessParams(params)
     }
 
-    console.log('form', payload.form)
+    //console.log('form', payload.form)
 
     request.post(payload, function ( err, response, body ) {
         if (err) {
