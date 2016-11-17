@@ -1,12 +1,16 @@
 {
     "name": "simple-slack-bot",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Awesome Simple Node.js Slack Bot library",
     "main": "index.js",
     "author": {
         "name": "SlugBay",
         "email": "contact@slugbay.com",
         "url": "https://www.slugbay.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/slugbay/simple-slack-bot.git"
     },
     "homepage": "https://github.com/slugbay/slack-bot",
     "license": "MIT",
